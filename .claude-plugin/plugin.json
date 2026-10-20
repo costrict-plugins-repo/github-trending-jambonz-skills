@@ -1,0 +1,9 @@
+{
+  "name": "jambonz-skills",
+  "description": "Skills for building voice applications on jambonz, the open-source CPaaS — voice AI agents, IVR menus, call routing, and MCP server setup.",
+  "version": "0.2.0",
+  "author": {
+    "name": "jambonz",
+    "email": "support@jambonz.org"
+  }
+}

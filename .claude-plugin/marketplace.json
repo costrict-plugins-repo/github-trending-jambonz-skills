@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jambonz",
+  "description": "Skills and tools for building voice applications on jambonz, the open-source CPaaS.",
+  "owner": {
+    "name": "jambonz",
+    "email": "support@jambonz.org"
+  },
+  "plugins": [
+    {
+      "name": "jambonz-skills",
+      "description": "Four skills for building jambonz voice apps with AI coding tools: core decision-making, implementation recipes, runnable starters, and MCP server setup.",
+      "version": "0.2.0",
+      "author": {
+        "name": "jambonz",
+        "email": "support@jambonz.org"
+      },
+      "source": ".",
+      "category": "telephony",
+      "homepage": "https://github.com/jambonz/skills"
+    }
+  ]
+}

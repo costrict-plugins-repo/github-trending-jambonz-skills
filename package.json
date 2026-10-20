@@ -1,0 +1,31 @@
+{
+  "name": "@jambonz/skills",
+  "version": "0.2.0",
+  "description": "Agent skills for building voice applications on jambonz",
+  "keywords": [
+    "jambonz",
+    "agent-skills",
+    "claude-code",
+    "mcp",
+    "voice-ai",
+    "cpaas",
+    "telephony"
+  ],
+  "homepage": "https://github.com/jambonz/skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jambonz/skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jambonz/skills/issues"
+  },
+  "license": "MIT",
+  "author": "jambonz",
+  "files": [
+    "skills/",
+    ".claude-plugin/",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ]
+}
